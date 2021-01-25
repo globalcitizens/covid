@@ -18,3 +18,6 @@ https://greatescape.co/ - flight serach with covid restrictions in place
 
 
 
+### Covid 2019 situation
+
+[Dashboard from CSSE & JHU](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
