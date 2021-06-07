@@ -15,6 +15,7 @@ https://covidcontrols.co/ - visualizer, check how up to date it is
 
 https://greatescape.co/ - flight serach with covid restrictions in place
 
+https://www.easyjet.com/en/covid-19-travel-hub/country-specific-restrictions-and-entry-requirements - aggregator from easyjet
 
 
 
