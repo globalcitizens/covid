@@ -22,3 +22,6 @@ https://www.easyjet.com/en/covid-19-travel-hub/country-specific-restrictions-and
 ### Covid 2019 situation
 
 [Dashboard from CSSE & JHU](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+
+https://www.worldometers.info/coronavirus/
+
